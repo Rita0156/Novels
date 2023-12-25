@@ -26,7 +26,7 @@ export default function Homepage(){
             <div className="nav">
             <Link to="/">
                 <div className="logo">
-                  <img src="https://www.freeiconspng.com/thumbs/book-icon/book-stack-icon--icon-search-engine-16.png" alt="books" />
+                  <img  src="https://www.freeiconspng.com/thumbs/book-icon/book-stack-icon--icon-search-engine-16.png" alt="books" />
                   <h2 style={{color:"red"}}>Reader's Book</h2>
                 </div>
             </Link>
