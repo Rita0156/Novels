@@ -1,0 +1,26 @@
+.nav{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-left: 50px;
+    background-color: white;
+    padding-right: 50px;
+}
+.logo{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    cursor: pointer;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    margin-right: 7px;
+}
+.logo h2{
+    background-color: white;
+}
