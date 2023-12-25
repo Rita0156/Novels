@@ -1,0 +1,17 @@
+.nav{
+    width: 98%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-left: 50px;
+}
+.logo{
+    display: flex;
+    width: 20%;
+    align-items: center;
+}
+.logo img{
+    width: 20%;
+}
