@@ -10,7 +10,7 @@ export default function Homepage(){
     const [search,setSearch]=useState('')
     
     useEffect(()=>{
-        fetch("http://localhost:7000/novel")
+        fetch("https://novel-3w7q.onrender.com/novel")
         .then((req)=>{
             return req.json()
         })
